@@ -1,6 +1,6 @@
 ### Quiz App - Laravel Backend
 This repository contains the backend for the Quiz Game application, built with the Laravel framework. The frontend for this project is developed with Vue.js and can be found in this link https://github.com/Faisalsaddiqui/Vue-Quiz.git
-### Features
+### Features:
 • User authentication and authorization
 
 • Create, update, and delete quizzes and questions
@@ -9,7 +9,7 @@ This repository contains the backend for the Quiz Game application, built with t
 
 Tracks user's performance
 
-### Contributing
+### Contributing:
 Contributions are welcome! Please follow these steps to contribute:
 ```
 Fork the repository
