@@ -10,7 +10,7 @@ This repository contains the backend for the Quiz Game application, built with t
 Tracks user's performance
 
 ### Contributing:
-Contributions are welcome! Please follow these steps to contribute:
+Contributions are welcome! Please follow these steps to contribute
 ```
 Fork the repository
 Create a new branch (git checkout -b feature/YourFeature)
