@@ -9,7 +9,7 @@ User can attempt quizzes and receive scores
 
 Tracks user's performance
 
-Contributing
+### Contributing
 Contributions are welcome! Please follow these steps to contribute:
 ```
 Fork the repository
