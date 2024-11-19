@@ -10,8 +10,8 @@ Tracks user's performance
 
 ### Contributing:
 Contributions are welcome! Please follow these steps to contribute
-Fork the repository
-Create a new branch
+
+Fork the repository and Create a new branch
 ```
 git checkout -b feature/YourFeature
 ```
