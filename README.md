@@ -23,5 +23,4 @@ git commit -m 'Add some feature'
 ```
 git push origin feature/YourFeature
 ```
-Open a Pull Request
 
